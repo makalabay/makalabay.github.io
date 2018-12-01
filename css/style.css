@@ -109,7 +109,7 @@ a:hover {
 }
 
 .tab {
-  max-width: 33%;
+  width: 33%;
   margin: 0;
   padding: 0 1vw;
 }
